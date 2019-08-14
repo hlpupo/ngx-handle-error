@@ -1,0 +1,21 @@
+{
+  "name": "ngx-handle-error",
+  "version": "0.0.1",
+  "description": "Using for Handler error on Angular app",
+  "license": "MIT",
+  "keywords": [
+    "Angular",
+    "Library",
+    "Error",
+    "Handle Error",
+    "Angular Error"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlpupo/ngx-handle-error.git"
+  },
+  "peerDependencies": {
+    "@angular/common": "^8.2.0",
+    "@angular/core": "^8.2.0"
+  }
+}

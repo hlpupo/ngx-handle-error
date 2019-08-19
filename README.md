@@ -14,9 +14,11 @@ This library is for handle errors on Angular App
 - @angular/core
 - rxjs
 
-##Install
+## Install
 
-npm instal
+npm i ngx-handle-error
+
+yarn add ngx-handle-error
 
 ## Configuration
 

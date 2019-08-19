@@ -1,6 +1,6 @@
 {
   "name": "ngx-handle-error",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Using for Handler error on Angular app",
   "license": "MIT",
   "keywords": [
@@ -16,6 +16,8 @@
   },
   "peerDependencies": {
     "@angular/common": "^8.2.0",
-    "@angular/core": "^8.2.0"
-  }
+    "@angular/core": "^8.2.0",
+    "moment": "^2.24.0"
+  },
+  "dependencies": {}
 }

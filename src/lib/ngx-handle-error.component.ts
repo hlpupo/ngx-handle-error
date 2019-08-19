@@ -1,19 +1,16 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit } from "@angular/core";
 
 @Component({
-  selector: 'lib-ngx-handle-error',
+  selector: "lib-ngx-handle-error",
   template: `
     <p>
       ngx-handle-error works!
     </p>
   `,
-  styles: []
+  styleUrls: ["./ngx-handle-error.component.css"]
 })
 export class NgxHandleErrorComponent implements OnInit {
+  constructor() {}
 
-  constructor() { }
-
-  ngOnInit() {
-  }
-
+  ngOnInit() {}
 }
